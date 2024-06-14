@@ -1,0 +1,4 @@
+2024-06-12 16:04:47,657 - ERROR - Failed to retrieve page: https://example.com/page/1/ with status code: 500
+2024-06-12 18:02:39,415 - ERROR - Request exception for https://realites.com.tn/fr/category/economie/page/132/: ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2024-06-12 18:09:46,405 - ERROR - Request exception for https://realites.com.tn/fr/category/economie/page/70/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-06-14 12:50:18,009 - ERROR - No such comm target registered: jupyter.widget.control
